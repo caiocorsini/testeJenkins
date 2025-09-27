@@ -1,0 +1,4 @@
+.DS_Store
+
+# Ignore private key
+caio_key.pem
